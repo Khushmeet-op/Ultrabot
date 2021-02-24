@@ -1,9 +1,9 @@
 # Ultroid - UserBot
 # Copyright (C) 2020 TeamUltroid
 #
-# This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
+# This file is a part of < https://github.com/Khushmeet-op/Ultrabot >
 # PLease read the GNU Affero General Public License in
-# <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
+# <https://github.com/Khushmeet-op/Ultrabot>.
 
 import asyncio
 import sys
@@ -12,7 +12,7 @@ from os import environ, execle, path, remove
 from git import Repo
 from git.exc import GitCommandError, InvalidGitRepositoryError, NoSuchPathError
 
-UPSTREAM_REPO_URL = "https://github.com/TeamUltroid/Ultroid"
+UPSTREAM_REPO_URL = "https://github.com/Khushmeet-op/Ultrabot"
 requirements_path = path.join(
     path.dirname(path.dirname(path.dirname(__file__))), "requirements.txt"
 )
@@ -50,7 +50,7 @@ async def upstream(ups):
     try:
         txt = "`Oops.. Updater cannot continue due to "
         txt += "some problems occured`\n\n**LOGTRACE:**\n"
-        repo = Repo()
+        repo = Repo(https://github.com/Khushmeet-op/Ultrabot)
     except NoSuchPathError as error:
         await eod(pagal, f"{txt}\n`directory {error} is not found`", time=10)
         repo.__del__()
