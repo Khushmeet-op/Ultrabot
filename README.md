@@ -1,16 +1,16 @@
-# Ultroid - UserBot
+# Ultra - UserBot
 A stable pluggable Telegram userbot, based on Telethon.
 
 <p align="center">
-  <img src="./resources/extras/logo_rdm.png" alt="TeamUltroid">
+  <img src="https://telegra.ph/file/40a9824c3ba55ccfae9a0.jpg">
 </p>
 
-[![Stars](https://img.shields.io/github/stars/TeamUltroid/Ultroid?style=social)](https://github.com/TeamUltroid/Ultroid/stargazers)
-[![Forks](https://img.shields.io/github/forks/TeamUltroid/Ultroid?style=social)](https://github.com/TeamUltroid/Ultroid/fork)
+[![Stars](https://img.shields.io/github/stars/TeamUltroid/Ultroid?style=social)](https://github.com/Khushmeet-op/Ultrabot)
+[![Forks](https://img.shields.io/github/forks/TeamUltroid/Ultroid?style=social)](https://github.com/Khushmeet-op/Ultrabot)
 [![Python Version](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
-[![Contributors](https://img.shields.io/github/contributors/TeamUltroid/Ultroid)](https://github.com/TeamUltroid/Ultroid/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/TeamUltroid/Ultra)](https://github.com/Khushmeet-op/Ultrabot)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/TeamUltroid/Ultroid/blob/main/LICENSE)
-[![Size](https://img.shields.io/github/repo-size/TeamUltroid/Ultroid)](https://github.com/TeamUltroid/Ultroid/)
+[![Size](https://img.shields.io/github/repo-size/Khushmeet-op/ultrabot)](https://github.com/Khushmeet-op/Ultrabot)
 
 <details>
 <summary>More Info</summary>
@@ -19,8 +19,8 @@ A stable pluggable Telegram userbot, based on Telethon.
 </details>
 
 # Deploy 
-- [Heroku](https://github.com/TeamUltroid/Ultroid#Deploy-to-Heroku)
-- [Local Machine](https://github.com/TeamUltroid/Ultroid#Deploy-Locally)
+- [Heroku](https://github.com/Khushmeet-op/Ultrabot#Deploy-to-Heroku)
+- [Local Machine](https://github.com/Khushmeet-op/Ultrabot#Deploy-Locally)
 
 ## Deploy to Heroku
 - Get your `API_ID` and `API_HASH` from [here](https://my.telegram.org/)    
@@ -48,8 +48,5 @@ and click the below button!  <br />
 - Run the bot:   
 `bash resources/startup/startup.sh`
 
-Made with 💕 by [@TeamUltroid](https://t.me/TeamUltroid). <br />
-
-# Credits
-* [Lonami](https://github.com/LonamiWebs/) for [Telethon](https://github.com/LonamiWebs/Telethon)
+Made with 💕 by [@Khushmeet1](https://t.me/Khushmeet1). <br />
 
