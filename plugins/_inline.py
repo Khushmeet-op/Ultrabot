@@ -22,9 +22,9 @@ from . import *
 
 # ================================================#
 notmine = "This bot is for {}".format(OWNER_NAME)
-ULTROID_PIC = "https://telegra.ph/file/11245cacbffe92e5d5b14.jpg"
+ULTROID_PIC = "https://telegra.ph/file/40a9824c3ba55ccfae9a0.jpg"
 helps = """
-[Uʟᴛʀᴏɪᴅ Sᴜᴘᴘᴏʀᴛ](t.me/ultroidsupport)
+[Uʟᴛʀᴏɪᴅ Sᴜᴘᴘᴏʀᴛ](t.me/Movies_hubs_1)
 
 **Hᴇʟᴘ Mᴇɴᴜ Oғ {}.
 
@@ -34,7 +34,7 @@ Pʟᴜɢɪɴs ~ {}**
 
 if Var.ADDONS:
     zhelps = """
-[Uʟᴛʀᴏɪᴅ Sᴜᴘᴘᴏʀᴛ](t.me/ultroidsupport)
+[Uʟᴛʀᴏɪᴅ Sᴜᴘᴘᴏʀᴛ](t.me/Movies_hubs_1)
 
 **Hᴇʟᴘ Mᴇɴᴜ Oғ {}.
 
@@ -42,7 +42,7 @@ Aᴅᴅᴏɴs ~ {}**
 """
 else:
     zhelps = """
-[Uʟᴛʀᴏɪᴅ Sᴜᴘᴘᴏʀᴛ](t.me/ultroidsupport)
+[Uʟᴛʀᴏɪᴅ Sᴜᴘᴘᴏʀᴛ](t.me/Movies_hubs_1)
 
 **Hᴇʟᴘ Mᴇɴᴜ Oғ {}.
 
@@ -62,23 +62,21 @@ async def e(o):
         ALIVEMSG = """
 **The Ultroid Userbot...**\n\n
 ✵ **Owner** - `{}`
-✵ **Ultroid** - `{}`
 ✵ **UpTime** - `{}`
 ✵ **Python** - `{}`
 ✵ **Telethon** - `{}`
 ✵ **Branch** - `{}`
 """.format(
             OWNER_NAME,
-            ultroid_version,
             uptime,
             pyver(),
             __version__,
-            Repo().active_branch,
+            Repo(https://github.com/Khushmeet-op/Ultrabot).active_branch,
         )
         res = [
             b.article(
-                title="Ultroid Userbot",
-                url="https://t.me/TeamUltroid",
+                title="Ultra Userbot",
+                url="https://t.me/Movies_hubs_1",
                 description="Userbot | Telethon ",
                 text=ALIVEMSG,
                 thumb=InputWebDocument(ULTROID_PIC, 0, "image/jpeg", []),
