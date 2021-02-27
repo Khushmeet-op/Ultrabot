@@ -60,7 +60,7 @@ async def e(o):
         b = o.builder
         uptime = grt((time.time() - start_time))
         ALIVEMSG = """
-**The Ultroid Userbot...**\n\n
+**The Ultra Userbot...**\n\n
 ✵ **Owner** - `{}`
 ✵ **UpTime** - `{}`
 ✵ **Python** - `{}`
