@@ -285,7 +285,7 @@ DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "@lightningsupport"
 
 CMD_HELP.update(
     {
-        "alive": "**alive**\
+        "hell": "**hell**\
         \n\n**Syntax : **`.halive For Hellbot's Alive`\
         \n**Function : **__ Hellbot's Alive__\
         \nFor above two commands use `.bigspam` instead of spam for spamming more than 50 messages\
